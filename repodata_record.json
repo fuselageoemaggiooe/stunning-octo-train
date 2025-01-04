@@ -1,0 +1,21 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5"
+  ],
+  "fn": "decorator-5.1.1-pyhd3eb1b0_0.conda",
+  "license": "BSD-2-Clause",
+  "md5": "4d969aac32a0faf84af90c797bfc7fec",
+  "name": "decorator",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "094d553ca784fb55afdb969a028ec1de177b152f14359e998a6ba94394a09d7f",
+  "size": 12194,
+  "subdir": "noarch",
+  "timestamp": 1643638345000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/decorator-5.1.1-pyhd3eb1b0_0.conda",
+  "version": "5.1.1"
+}
